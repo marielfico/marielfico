@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi! Soy Mariel there 👋
+***
+
+- 🔭 Actualmente estoy trabajando en el desarrollo de una librería de que permitirá leer y analizar archivos Markdown.
 
 <!--
 **marielfico/marielfico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
